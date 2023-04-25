@@ -21,7 +21,7 @@ puts "|              Le but du jeu est d'être le dernier survivant !           
 puts "|__________________________________________________________________________|"
 puts ""
 
-dialogue("Quelle est ton prénom combattant.e ?")
+dialogue("Quel est ton prénom combattant.e ?")
 print "> "
 user_name = gets.chomp.to_s
 
